@@ -41,6 +41,8 @@ controller and BEC:
     * `ground.png` -- ground layer of flight controller board.
     * `power.png` -- power layer of flight controller board.
     * `tps5430.JPG` -- DC-DC conveter used to convert battery voltage to
+    * `BOM_FINAL_.xlsx` -- bill of material for flight controller.
+    * `reversed_pcb-all-pos.csv` -- automated assembly files for flight controller.
 5 volts used by main board's input LDO and FPV camera.
     * `conponentvalues.txt` -- values and types for components on
 schematics.
